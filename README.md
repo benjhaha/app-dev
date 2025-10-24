@@ -22,3 +22,5 @@ My first repository.
 5. Shaquille "The Diesel" Oniel
 
   ![Image](https://github.com/user-attachments/assets/dfeedabc-87ac-4170-9d67-3806681ebe72)
+
+  TYSM!
